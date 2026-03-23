@@ -9,6 +9,9 @@ description = "neural net for audio classification"
 requires-python = ">=3.9"
 
 dependencies = [
+    "numpy",
+    "cupy-cuda12x",
+    "librosa",
     "sounddevice",
     "pydub",
 ]
