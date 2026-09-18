@@ -4,6 +4,7 @@ Built a spoken-digit classifier from scratch in Python using NumPy and CuPy, ach
 
 ## Demo
 https://youtu.be/mvJFuRyheho
+https://audio-digit-nn.streamlit.app/
 
 ## Overview
 This project implements an end-to-end audio classification system that recognizes spoken digits (0–9) from live microphone input.
